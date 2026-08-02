@@ -1,0 +1,25 @@
+name: Lab or documentation request
+description: Propose a focused networking, Linux, cloud, or security lab.
+title: "lab: "
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: Goal
+      description: What should this lab or document teach or verify?
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope
+      description: Include tools, topology, expected output, or acceptance criteria.
+    validations:
+      required: true
+  - type: checkboxes
+    id: security
+    attributes:
+      label: Security check
+      options:
+        - label: The request contains no credentials, keys, or sensitive network information.
+          required: true
