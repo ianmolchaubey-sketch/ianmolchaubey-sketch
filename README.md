@@ -30,15 +30,15 @@ I build reproducible infrastructure labs and small automation tools. The goal is
 | Security | Secure configuration, AAA, centralized logging, SIEM basics, vulnerability management, incident response fundamentals |
 | Programming | Python, C++, Julia, data structures, algorithms, testing |
 
-## Portfolio Under Construction
+## Portfolio
 
-Each repository below will be published only when it includes working material, evidence, and documentation.
+Published work is linked below. Future repositories will be added only when they include working material, evidence, and documentation.
 
 | Planned repository | Engineering outcome | Evidence of quality |
 | --- | --- | --- |
-| `network-labs` | Vendor-neutral routing, switching, and troubleshooting labs | Topology, sanitized configs, verification output, and lessons learned |
+| [network-labs](https://github.com/ianmolchaubey-sketch/network-labs) | Vendor-neutral routing, switching, and troubleshooting labs | Topology, sanitized configs, verification output, and lessons learned |
 | `linux-server-hardening` | Repeatable baseline for a small Linux server | Hardening checklist, automation, validation, and rollback notes |
-| `python-network-tools` | Reliable network diagnostics command-line tools | Tests, failure handling, examples, and clear limits |
+| [python-network-tools](https://github.com/ianmolchaubey-sketch/python-network-tools) | Reliable network diagnostics command-line tools | Tests, failure handling, examples, and clear limits |
 | `cloud-networking-labs` | Secure reference network in a cloud environment | Diagram, IaC, least-privilege design, and cost cleanup steps |
 | `dsa-cpp` | Well-explained C++ data structure and algorithm practice | Complexity analysis, unit tests, and benchmark notes |
 
