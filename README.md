@@ -1,61 +1,87 @@
-<h1 align="center">Ian Molchaubey</h1>
+<div align="center">
 
-<p align="center">
-  Network Engineering | Linux Systems | Cloud Networking | Defensive Security
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Anmol+Chaubey;Network+Engineer+%7C+Linux+%7C+Python;Building+Secure+Infrastructure,+One+Packet+at+a+Time;Automation+%7C+Hardening+%7C+Diagnostics" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Network%20Engineering-1F6FEB?style=flat-square" alt="Network Engineering focus">
-  <img src="https://img.shields.io/badge/Practice-Evidence--Led-2DA44E?style=flat-square" alt="Evidence-led practice">
-  <img src="https://img.shields.io/badge/Security-Defense%20First-C21F39?style=flat-square" alt="Defense first security">
-</p>
+<br/>
 
-I build reproducible infrastructure labs and small automation tools. The goal is practical engineering work: clear designs, secure defaults, tested changes, and documentation another engineer can follow.
+![Profile Views](https://komarev.com/ghpvc/?username=ianmolchaubey-sketch&color=00ff9c&style=flat-square&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00ff9c?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/anmol-chaubey-bb5aa7426)
 
-## Direction
+</div>
 
-- Design and troubleshoot routed, switched, and cloud-connected networks.
-- Administer and harden Linux systems with auditable operational practices.
-- Automate routine diagnostics and validation with Python and shell tools.
-- Build defensive security skills through logging, monitoring, least privilege, and incident-ready documentation.
-- Strengthen problem-solving fundamentals with C++ data structures and algorithms; use Julia for numerical exploration when appropriate.
+---
 
-## Technical Toolkit
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-| Domain | Technologies and topics |
-| --- | --- |
-| Networking | IPv4/IPv6, subnetting, VLANs, STP, OSPF, BGP fundamentals, ACLs, NAT, DNS, DHCP, VPNs, packet analysis |
-| Linux and automation | Linux, Bash, Python, systemd, SSH, Git, Docker |
-| Cloud networking | VPC/VNet concepts, subnets, routing, security groups/NSGs, IAM foundations, Terraform fundamentals |
-| Security | Secure configuration, AAA, centralized logging, SIEM basics, vulnerability management, incident response fundamentals |
-| Programming | Python, C++, Julia, data structures, algorithms, testing |
+## `whoami`
 
-## Portfolio
+```bash
+$ cat about_me.txt
 
-Published work is linked below. Future repositories will be added only when they include working material, evidence, and documentation.
+> Network Engineer building practical, secure infrastructure.
+> Focused on: Linux systems | Networking protocols | Automation with Python
+> Philosophy: sanitize, validate, harden, automate — repeat.
+> Status: Actively building reproducible labs + open-source tooling.
+```
 
-| Planned repository | Engineering outcome | Evidence of quality |
-| --- | --- | --- |
-| [network-labs](https://github.com/ianmolchaubey-sketch/network-labs) | Vendor-neutral routing, switching, and troubleshooting labs | Topology, sanitized configs, verification output, and lessons learned |
-| [linux-server-hardening](https://github.com/ianmolchaubey-sketch/linux-server-hardening) | Read-only baseline audit for a small Linux server | SSH, firewall, update, and permission checks with CI validation |
-| [python-network-tools](https://github.com/ianmolchaubey-sketch/python-network-tools) | Reliable network diagnostics command-line tools | Tests, failure handling, examples, and clear limits |
-| `cloud-networking-labs` | Secure reference network in a cloud environment | Diagram, IaC, least-privilege design, and cost cleanup steps |
-| [dsa-cpp](https://github.com/ianmolchaubey-sketch/dsa-cpp) | Well-explained C++ data structure and algorithm practice | Complexity analysis, CMake tests, and build validation |
+---
 
-## Engineering Principles
+## `ls -la ~/skills`
 
-1. **Reproducible:** a lab should run from documented prerequisites and versioned configuration.
-2. **Secure by default:** secrets are excluded, access is least-privilege, and security controls are validated.
-3. **Observable:** changes include useful logs, monitoring signals, and verification commands.
-4. **Reviewable:** commits are focused, issues state the problem, and pull requests carry test evidence.
-5. **Honest:** progress is represented by working projects, not artificial contribution activity.
+<div align="center">
 
-## Repository Standards
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF9C)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF9C)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF9C)
+![Bash](https://img.shields.io/badge/Shell%20Script-000000?style=for-the-badge&logo=gnubash&logoColor=00FF9C)
+![Networking](https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=00FF9C)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF9C)
+![CMake](https://img.shields.io/badge/CMake-000000?style=for-the-badge&logo=cmake&logoColor=00FF9C)
 
-Every portfolio repository follows the [project standard](docs/PROJECT_STANDARDS.md). The standards are informed by current GitHub documentation and infrastructure-security guidance, with sources in [research notes](docs/RESEARCH_NOTES.md).
+</div>
 
-Account-wide issue and pull-request templates are prepared in [community templates](community-templates). They are deliberately separate from this profile repository so they can be published in a public `.github` repository for reuse across projects.
+---
 
-## Collaboration
+## `tree ~/repositories`
 
-Focused issues, documentation improvements, reproducible bug reports, and constructive reviews are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for the expected workflow and [GITHUB_WORKFLOW_HI.md](GITHUB_WORKFLOW_HI.md) for a Hinglish explanation of GitHub issues, pull requests, commits, and contribution credit.
+```
+📡 network-labs           → Reproducible network engineering labs (sanitized configs + validation)
+🐍 python-network-tools   → Dependency-free DNS & targeted TCP diagnostics (authorized troubleshooting)
+🔐 linux-server-hardening → Read-only Linux baseline audit — SSH, firewall, updates, permissions
+🧠 dsa-cpp                → Tested C++ data structures & algorithms, built with CMake
+👤 ianmolchaubey-sketch   → This profile — engineering portfolio direction
+```
+
+---
+
+## `htop` — GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ianmolchaubey-sketch&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianmolchaubey-sketch&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ianmolchaubey-sketch&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
+
+</div>
+
+---
+
+## `ping contact`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-Anmol%20Chaubey-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/anmol-chaubey-bb5aa7426)
+[![GitHub](https://img.shields.io/badge/-ianmolchaubey--sketch-00FF9C?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ianmolchaubey-sketch)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
+</div>
+
+<div align="center">
+<sub>🔒 Secure by design. Automated by habit. Documented always.</sub>
+</div>
